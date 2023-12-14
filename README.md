@@ -10,9 +10,6 @@ The project involves fetching JSON data related to vehicles from an AWS S3 bucke
 - Azure Key Vault
 - Azure SQL DB
 - AWS S3 Bucket
-  
-## Getting Started
-
 
 ## How It Works
 
