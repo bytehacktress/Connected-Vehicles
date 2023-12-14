@@ -13,15 +13,7 @@ The project involves fetching JSON data related to vehicles from an AWS S3 bucke
   
 ## Getting Started
 
-1. Clone the repository.
-   ```bash
-   git clone https://github.com/airscholar/FootballDataEngineering.git
-   ```
 
-2. Install Python dependencies.
-   ```bash
-   pip install -r requirements.txt
-   ``
 ## How It Works
 
 1. **Fetch Data from AWS S3 Bucket:**
